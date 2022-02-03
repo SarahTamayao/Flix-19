@@ -19,9 +19,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [X] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+
+https://user-images.githubusercontent.com/75550025/152424597-6d4c68fe-8aea-4fb0-8a55-ebe015e4f2fc.mp4
+
+
 
 ### Notes
 There was nothing I found too challenging in building part one of the Flix app. Maybe I would say understanding how the fetching works for the API call in Swift and getting cocoapods installed, however since these were very similar to using NPM, and fetching API data using JS, I did not have much trouble with it.
