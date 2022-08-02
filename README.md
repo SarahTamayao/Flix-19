@@ -14,27 +14,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [X] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
-### App Walkthrough GIF
 
-https://user-images.githubusercontent.com/75550025/153329545-5d0806a2-743b-43a1-841d-c540549be8b4.mp4
-
-
-### Notes
-For the optional feature of adding the video modal I am still trying to figure that out and I have had trouble with the minimumInteritemSpacing since I have been trying to resolve why it automatically gives the collection view a set space ven though i've configured it to 0 in the settings of the collection view.
-
----
-
-## Flix Part 1
-
-### User Stories
-#### REQUIRED (10pts)
-- [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [X] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [X] (3pts) User can view the movie poster image for each movie.
-
-#### BONUS
-- [X] (2pt) User can view the app on various device sizes and orientations.
-- [X] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
